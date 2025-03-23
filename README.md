@@ -52,12 +52,12 @@
 <div align="center">
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=vijeshvs&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vijeshvs&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijeshvs&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Dhruva-D&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruva-D&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruva-D&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </p>
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vijeshvs&theme=default&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Dhruva-D&theme=default&no-frame=false&no-bg=true&margin-w=4)
